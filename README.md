@@ -1,2 +1,7 @@
-# AsteroidsGame
-a 'simple' solution in Java to play an Asteroids game
+## Java Asteroids Game
+a **'simple'** solution in Java - NetBeans to play an Asteroids game 
+#
+the comments in the code are in spanish
+
+## Libraries
+Java native libraries only
